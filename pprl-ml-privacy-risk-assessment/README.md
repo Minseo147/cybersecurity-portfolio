@@ -100,24 +100,25 @@ Multiple strategies tested:
 pprl-ml-privacy-risk-assessment/
 │
 ├── attack_model/
-│ ├── Attack Model ROC Curve.png
-│ ├── Attack Result.png
-│ ├── MIA_Attack_Final_v2.py
-│ └── Δμ(top-1) result.png
+│   ├── Attack Model ROC Curve.png
+│   ├── Attack Result.png
+│   ├── MIA_Attack_Final_v2.py
+│   └── Δμ(top-1) result.png
 │
 ├── report/
-│ └── PPRL 기반 머신러닝 시스템의 프라이버시 리스크 평가 보고서
+│   └── PPRL 기반 머신러닝 시스템의 프라이버시 리스크 평가 보고서.pdf
 │
 ├── shadow_models/
-│ ├── Shadow Models Performance Overview.png
-│ ├── Shadow Models Training Log.png
-│ └── Shadow_Final.py
+│   ├── Shadow Models Performance Overview.png
+│   ├── Shadow Models Training Log.png
+│   └── Shadow_Final.py
 │
 ├── target_model/
-│ ├── Target Model Baseline Performance.png
-│ └── confusion_matrix.png
+│   ├── Target Model Baseline Performance.png
+│   └── confusion_matrix.png
 │
 └── README.md
+
 
 > ⚠️ Dataset and trained model weights are excluded from this repository.
 
