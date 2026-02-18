@@ -39,19 +39,19 @@ Determine whether a given sample was used in training.
 
 ## 🧠 3. Attack Methodology
 
-### Step 1 — Train Shadow Models
+### Step 1 - Train Shadow Models
 Shadow models simulate the behavior of the target model using disjoint data splits.
 
-### Step 2 — Collect Confidence Scores
+### Step 2 - Collect Confidence Scores
 Training samples (members) and test samples (non-members) are labeled.
 
-### Step 3 — ROC-based Threshold Optimization
+### Step 3 - ROC-based Threshold Optimization
 Optimal threshold selected using:
 
 - ROC curve
-- Youden’s J statistic (TPR − FPR)
+- Youden’s J statistic (TPR - FPR)
 
-### Step 4 — Apply Attack on Target Model
+### Step 4 - Apply Attack on Target Model
 Multiple strategies tested:
 
 - Mean threshold
