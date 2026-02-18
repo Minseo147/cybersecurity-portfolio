@@ -97,6 +97,8 @@ Multiple strategies tested:
 ---
 
 ## 📁 Project Structure
+
+```text
 pprl-ml-privacy-risk-assessment/
 │
 ├── attack_model/
@@ -118,7 +120,7 @@ pprl-ml-privacy-risk-assessment/
 │   └── confusion_matrix.png
 │
 └── README.md
-
+```
 
 > ⚠️ Dataset and trained model weights are excluded from this repository.
 
