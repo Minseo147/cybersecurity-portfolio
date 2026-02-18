@@ -77,7 +77,7 @@ Performed structured risk evaluation based on vulnerability identification and i
 
 - GitHub: https://github.com/Minseo147/cybersecurity-portfolio 
 - Blog: https://cyberlab.tistory.com/
-- Contact: minsu1474@gmail.com
+- Contact: minseokwon.dev@gmail.com
 
 ---
 
