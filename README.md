@@ -73,6 +73,22 @@ Performed structured risk evaluation based on vulnerability identification and i
 
 ---
 
+## 📬 Contact
+
+GitHub: https://github.com/Minseo147/cybersecurity-portfolio 
+Blog: https://cyberlab.tistory.com/
+Contact: minsu1474@gmail.com
+
+---
+
+# 🇰🇷 한국어 요약
+
+본 저장소는 머신러닝 프라이버시 공격(Membership Inference Attack)과  
+디지털 포렌식 분석 프로젝트를 포함한 사이버보안 포트폴리오입니다.  
+실제 보안 리스크 분석과 공격 모델 구현을 중심으로 구성되었습니다.
+
+---
+
 ⚠️ Note:
 Datasets and trained model weights are excluded from this repository.
 This portfolio demonstrates attack methodology and risk evaluation processes only.
