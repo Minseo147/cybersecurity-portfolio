@@ -61,7 +61,7 @@ Each challenge demonstrates a different forensic technique.
 project1-hidden-artifacts/
 │
 ├── report/
-│ └── digital_forensics_report.pdf
+│ └── 디지털 포렌식 CTF - 은닉 아티팩트 분석 프로젝트.pdf
 │
 ├── screenshots/
 │ ├── fig1-grep-hidden-flag-text.png
