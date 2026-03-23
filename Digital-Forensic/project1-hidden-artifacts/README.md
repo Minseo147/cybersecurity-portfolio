@@ -57,7 +57,7 @@ Each challenge demonstrates a different forensic technique.
 ---
 
 ## 📁 4. Project Structure
-'''text
+```text
 project1-hidden-artifacts/
 │
 ├── report/
@@ -79,7 +79,7 @@ project1-hidden-artifacts/
 │ └── fig13-hidden-flag-output.png
 │
 └── README.md
-'''
+```
 
 ---
 
