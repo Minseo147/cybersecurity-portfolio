@@ -64,15 +64,15 @@ project1-hidden-artifacts/
 │ └── 디지털 포렌식 CTF - 은닉 아티팩트 분석 프로젝트.pdf
 │
 ├── screenshots/
-│ ├── fig1-grep-hidden-flag-text.png
-│ ├── fig2-strings-analysis-exe.png
-│ ├── fig3-hexdump-png-signature.png
-│ ├── fig4-file-carving-dd-extraction.png
-│ ├── fig5-extracted-png-verification.png
-│ ├── fig6-extracted-image-output.png
-│ ├── fig7-jadx-decompile-apk.png
-│ ├── fig8-resource-directory-analysis.png
-│ ├── fig9-encoded-string-discovery.png
+│ ├── fig01-grep-hidden-flag-text.png
+│ ├── fig02-strings-analysis-exe.png
+│ ├── fig03-hexdump-png-signature.png
+│ ├── fig04-file-carving-dd-extraction.png
+│ ├── fig05-extracted-png-verification.png
+│ ├── fig06-extracted-image-output.png
+│ ├── fig07-jadx-decompile-apk.png
+│ ├── fig08-resource-directory-analysis.png
+│ ├── fig09-encoded-string-discovery.png
 │ ├── fig10-base64-decoding-result.png
 │ ├── fig11-exiftool-metadata-analysis.png
 │ ├── fig12-strings-analysis-png.png
