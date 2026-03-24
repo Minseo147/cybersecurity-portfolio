@@ -66,7 +66,7 @@ This project emphasizes both **technical analysis** and **behavioral interpretat
 windows-os-forensic-analysis/
 │
 ├── report/
-│ └── 압수 노트북 디지털 포렌식 분석 보고서.pdf
+│ └── Windows 시스템 디지털 포렌식 분석 보고서.pdf
 │
 ├── evidence/
 │ ├── fig01_hash.png
