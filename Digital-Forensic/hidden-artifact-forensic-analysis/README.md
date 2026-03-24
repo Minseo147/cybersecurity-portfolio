@@ -63,7 +63,7 @@ project1-hidden-artifacts/
 ├── report/
 │ └── 디지털 포렌식 CTF - 은닉 아티팩트 분석 프로젝트.pdf
 │
-├── screenshots/
+├── evidence/
 │ ├── fig01-grep-hidden-flag-text.png
 │ ├── fig02-strings-analysis-exe.png
 │ ├── fig03-hexdump-png-signature.png
