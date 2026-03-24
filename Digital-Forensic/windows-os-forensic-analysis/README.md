@@ -96,11 +96,11 @@ windows-os-forensic-analysis/
 ---
 
 ### 🔨 6. Tools Used
-Autopsy 4.22.0
-Windows Registry Analysis
-Excel (data filtering using HOUR function)
-UTM Virtual Machine
-Windows 11 Environment
+- Autopsy 4.22.0
+- Windows Registry Analysis
+- Excel (data filtering using HOUR function)
+- UTM Virtual Machine
+- Windows 11 Environment
 
 ---
 
