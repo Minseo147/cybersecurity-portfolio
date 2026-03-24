@@ -60,9 +60,6 @@ Each challenge demonstrates a different forensic technique.
 ```text
 project1-hidden-artifacts/
 │
-├── report/
-│ └── 은닉 아티팩트 디지털 포렌식 분석 보고서.pdf
-│
 ├── evidence/
 │ ├── fig01-grep-hidden-flag-text.png
 │ ├── fig02-strings-analysis-exe.png
@@ -77,6 +74,9 @@ project1-hidden-artifacts/
 │ ├── fig11-exiftool-metadata-analysis.png
 │ ├── fig12-strings-analysis-png.png
 │ └── fig13-hidden-flag-output.png
+│
+├── report/
+│ └── 은닉 아티팩트 디지털 포렌식 분석 보고서.pdf
 │
 └── README.md
 ```
