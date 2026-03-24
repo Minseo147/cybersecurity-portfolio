@@ -65,9 +65,6 @@ This project emphasizes both **technical analysis** and **behavioral interpretat
 ```text
 windows-os-forensic-analysis/
 │
-├── report/
-│ └── Windows 시스템 디지털 포렌식 분석 보고서.pdf
-│
 ├── evidence/
 │ ├── fig01_hash.png
 │ ├── fig02_system_registry_creation_timestamp.png
@@ -85,6 +82,9 @@ windows-os-forensic-analysis/
 │ ├── fig11_web_search_autopsy.png
 │ ├── fig12_web_history_csv-overview.png
 │ └── fig13_web_activity_time_filter.png
+│
+├── report/
+│ └── Windows 시스템 디지털 포렌식 분석 보고서.pdf
 │
 └── README.md
 ```
