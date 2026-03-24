@@ -69,18 +69,22 @@ windows-os-forensic-analysis/
 │ └── 압수 노트북 디지털 포렌식 분석 보고서.pdf
 │
 ├── evidence/
-│ ├── fig01-md5-hash-verification.png
-│ ├── fig02-system-hive-timestamp.png
-│ ├── fig03-software-hive-os-info.png
-│ ├── fig04-buildnumber-analysis.png
-│ ├── fig05-windows-old-directory.png
-│ ├── fig06-user-account-analysis.png
-│ ├── fig07-installed-programs.png
-│ ├── fig08-buildlabex-analysis.png
-│ ├── fig09-web-history.png
-│ ├── fig10-web-search.png
-│ ├── fig11-excel-filtering.png
-│ └── fig12-time-filtered-activity.png
+│ ├── fig01_hash.png
+│ ├── fig02_system_registry_creation_timestamp.png
+│ ├── fig03_software_hive_windows10_home.png
+│ ├── fig04_current_build_number_windows11_22543.png
+│ ├── fig05_current_version_registry_value.png
+│ ├── fig06_patrick_1.png
+│ ├── fig06_patrick_2.png
+│ ├── fig07_minecraftsteve_1.png
+│ ├── fig07_minecraftsteve_2.png
+│ ├── fig08_buildlabex_registry.png
+│ ├── fig09_installed_programs_1.png
+│ ├── fig09_installed_programs_2.png
+│ ├── fig10_web_history_autopsy.png
+│ ├── fig11_web_search_autopsy.png
+│ ├── fig12_web_history_csv-overview.png
+│ └── fig13_web_activity_time_filter.png
 │
 └── README.md
 ```
