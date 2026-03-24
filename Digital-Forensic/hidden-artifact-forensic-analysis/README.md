@@ -58,7 +58,7 @@ Each challenge demonstrates a different forensic technique.
 
 ## 📁 4. Project Structure
 ```text
-project1-hidden-artifacts/
+hidden-artifact-forensic-analysis/
 │
 ├── evidence/
 │ ├── fig01-grep-hidden-flag-text.png
