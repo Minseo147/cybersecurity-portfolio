@@ -21,8 +21,6 @@ Through academic projects, I have implemented black-box membership inference att
 ### 💻 Programming & Frameworks
 - Python
 - Java
-- TensorFlow / Keras
-- NumPy / Pandas / Scikit-learn
 
 ### 🔐 Security Fundamentals
 - Networking & TCP/IP
@@ -33,7 +31,7 @@ Through academic projects, I have implemented black-box membership inference att
 ### 🧰 Tools
 - Wireshark
 - Autopsy
-- Git & GitHub
+- GitHub
 - VS Code
 
 ---
